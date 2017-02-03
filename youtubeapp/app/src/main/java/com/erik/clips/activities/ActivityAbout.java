@@ -25,7 +25,8 @@ public class ActivityAbout extends PreferenceActivity
 	protected void onCreate(final Bundle savedInstanceState)
 	{
 		// Set preference theme, you can configure the color theme
-		// via res/values/styles.xml
+		//Create new comment in app for treaning 222222
+        // via res/values/styles.xml
 		setTheme(R.style.AppTheme_Dark);
 		super.onCreate(savedInstanceState);
 
