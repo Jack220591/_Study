@@ -16,6 +16,7 @@ import com.erik.clips.R;
  *
  * New comment! 00^00
  * Create new comment in app for treaning
+ * Create new comment in app for treaning 222222
  */
 public class ActivityAbout extends PreferenceActivity
 		implements Preference.OnPreferenceClickListener {
