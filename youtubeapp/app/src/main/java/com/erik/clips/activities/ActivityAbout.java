@@ -15,6 +15,7 @@ import com.erik.clips.R;
  * version, and developer name. Created using PreferenceActivity.
  *
  * New comment! 00^00
+ * Create new comment in app for treaning
  */
 public class ActivityAbout extends PreferenceActivity
 		implements Preference.OnPreferenceClickListener {
