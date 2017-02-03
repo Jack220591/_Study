@@ -13,6 +13,8 @@ import com.erik.clips.R;
  *
  * ActivityAbout is created to display app information such as app name,
  * version, and developer name. Created using PreferenceActivity.
+ *
+ * New comment! 00^00
  */
 public class ActivityAbout extends PreferenceActivity
 		implements Preference.OnPreferenceClickListener {
